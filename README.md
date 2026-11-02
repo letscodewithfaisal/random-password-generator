@@ -2,9 +2,11 @@
 
 A simple, responsive password generator built with HTML, CSS and vanilla JavaScript. Choose the length and character types, generate a password, check its strength and copy it with one click.
 
-## Live Demo: [your-vercel-link-here](https://your-vercel-link-here)
+## Live Demo: https://random-password-generator-alpha-orpin.vercel.app/
 
-![Screenshot](screenshot.png)
+![Screenshots]
+paint add1.png
+paint add2.png
 
 ## Features
 
@@ -57,4 +59,5 @@ Then open `index.html` in your browser, or use the Live Server extension in VS C
 
 ##  Author
 [LinkedIn] - www.linkedin.com/in/faisal-siddiqui-b42980228 
+
 [GitHub] - https://github.com/letscodewithfaisal/random-password-generator
